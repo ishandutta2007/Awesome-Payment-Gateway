@@ -61,11 +61,11 @@ Below is a detailed comparison of industry-leading commercial payment gateway pl
 
 Explore the most popular self-hosted payment gateways, orchestration switches, multi-gateway abstraction layers, and crypto transaction engines. 
 
-The list below is **sorted in descending order by GitHub Stars** ⭐:
+The list below is **sorted in descending order by GitHub_Stars** ⭐:
 
 ### ⚡ Top Open-Source Frameworks & Switches
 
-| 📦 Repository & Project | ⭐ Star Count | 💻 Primary Tech Stack | 📖 Core Category |
+| 📦 Repository & Project | ⭐ Stars_Count | 💻 Primary Tech Stack | 📖 Core Category |
 |:---|:---|:---|:---|
 | 🔄 **[Hyperswitch (Juspay)](https://github.com/juspay/hyperswitch)** | [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | `Rust`, `PostgreSQL`, `Redis` | Payment Orchestration Switch |
 | 🛍️ **[Medusa Payments Ecosystem](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | `TypeScript`, `Node.js` | Headless Commerce Payment Modules |
@@ -112,7 +112,7 @@ Contributions to this ecosystem list are welcome! Follow these steps:
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-gateway`).
-3. 📝 **Add your entry** following the standardized markdown table format (including exact pricing, free trial specifications, and star badges).
+3. 📝 **Add your entry** following the standardized markdown table format (including exact pricing, free trial specifications, and Stars_Badges).
 4. 🚀 **Submit a Pull Request** with a concise description of the tool and links to official documentation.
 
 ---
