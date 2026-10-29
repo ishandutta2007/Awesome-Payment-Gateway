@@ -11,6 +11,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Payment-Gateway/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Payment-Gateway?style=for-the-badge&logo=github&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Payment-Gateway/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Payment-Gateway?style=for-the-badge&color=brightgreen" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Payment-Gateway/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🚀 **A curated directory of top payment gateway platforms, multi-processor orchestration engines, self-hosted payment APIs, crypto switches, and developer SDKs.**
@@ -25,6 +26,8 @@
   - [⚡ Top Open-Source Frameworks & Switches](#-top-open-source-frameworks--switches)
   - [🛠️ Architectural Categorization & Deep Dive](#-architectural-categorization--deep-dive)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -111,6 +114,23 @@ Contributions to this ecosystem list are welcome! Follow these steps:
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-gateway`).
 3. 📝 **Add your entry** following the standardized markdown table format (including exact pricing, free trial specifications, and star badges).
 4. 🚀 **Submit a Pull Request** with a concise description of the tool and links to official documentation.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated directory! Maintaining high-quality, up-to-date fintech and payment gateway resources takes time and care. If you find this repository valuable:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new open-source projects or SaaS platform updates.
+- 📢 **Share with your network** of payment engineers, fintech developers, and product teams.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new open-source resources, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Payment-Gateway&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Payment-Gateway&type=date&legend=top-left)
 
 ---
 
